@@ -42,6 +42,11 @@ export default function About() {
                 <div className="subtitle about-subtitle">
                   {INFO.about.description}
                 </div>
+                <div style={{margin:'2rem 0'}}>
+                  <div style={{fontSize:'2.5rem', fontWeight:'600',fontFamily:'var(--secondary-font)', color:'var(--primary-color)'}}>Education</div>
+                  <div className="edu-stubtitle">B.E CSE (2019 - 2023)</div>
+                  <div className="edu-stubtitle"> Sri Krishna College of Technology, Coimbatore </div>
+                </div>
               </div>
 
               <div className="about-left-side">

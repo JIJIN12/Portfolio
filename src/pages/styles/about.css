@@ -68,7 +68,13 @@
 .about-socials-mobile {
 	display: none;
 }
-
+.edu-stubtitle{
+	/* padding-top: 10px; */
+	color: var(--secondary-color);
+	font-size: 16px;
+	line-height: 8px;
+	margin-top: 25px;
+}
 @media (max-width: 1024px) {
 	.about-logo {
 		z-index: 100;
